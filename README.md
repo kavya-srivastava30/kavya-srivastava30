@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**kavya-srivastava30/kavya-srivastava30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kavya! 👋
 
-Here are some ideas to get you started:
+🎓 First-year B.Tech Computer Science and Engineering student at Lovely Professional University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am an aspiring Software Engineer interested in programming, technology, and software development.
+
+I am currently building my foundation in computer science and exploring how software applications are designed and developed.
+
+## Skills I'm Learning
+- Python
+- HTML
+- CSS
+
+## Areas of Interest
+- Software Engineering
+- Problem Solving
+- Application Development
+- Technology and Innovation
+
+## Current Goal
+To strengthen my programming fundamentals, work on practical projects, and grow as a software developer.
+
+🌱 Always learning and improving!
